@@ -2,3 +2,6 @@
 Notebooks/.ipynb_checkpoints
 Notebooks/Solutions
 .ipynb_checkpoints
+notebooks/__pycache__/
+notebooks/camb_dataset.npz
+notebooks/CAMB_fiducial_cosmo_scalCls.dat
